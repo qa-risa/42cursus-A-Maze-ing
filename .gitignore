@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+build/
+dist/
+maze.txt
+.DS_Store
+*/.DS_Store
+a-maze-ing.pdf
+review/

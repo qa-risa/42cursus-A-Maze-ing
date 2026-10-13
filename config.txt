@@ -1,0 +1,12 @@
+# A-Maze-ing default configuration
+# 必須キー
+WIDTH=20
+HEIGHT=15
+ENTRY=0,0
+EXIT=19,14
+OUTPUT_FILE=maze.txt
+PERFECT=True
+# 任意キー（書かなければ下の値になる）
+# SEED=42
+# STRATEGY=recursive
+# MAX_DEAD_ENDS=0
